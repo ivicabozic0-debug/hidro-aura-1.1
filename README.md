@@ -1,7 +1,7 @@
 # HYDRO-AURA v1.1 (Sinus-Zero Mode)
-### Software-Based Transistor Leakage Mitigation via Dynamic Phase Alignment on 4nm Architecture
+Software-based processor cooling and power efficiency algorithm via thermodynamic phase alignment.
 
----
+
 
 ## 🇭🇷 HRVATSKI: Službeni tehnički prijedlog za Samsung Mobile
 
